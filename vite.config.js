@@ -12,7 +12,7 @@ export default defineConfig({
     host: '0.0.0.0',
     port: process.env.PORT || 10000,
     allowedHosts: [
-      'frontend-oauth2-flow-and-direct-oauth2.onrender.com'
+      'frontend-oauth-direct.onrender.com'
     ]
   }
 })
